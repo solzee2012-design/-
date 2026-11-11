@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Поздравление мам!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffe0e6;
+            color: #a7626b;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border: 25px solid #d7c9cc;
+            border-radius: 8px:
+            box-sizing: border-box;
+        }
+        h1 {
+            color: #8e5663;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Привет, дорогие мамы!</h1>
+    <div style="display: flex; alight-items: center:">
+        <p style="margin: 0; margin-right: 10px;">С праздником вас</p>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTqMJZhMM2MBUZD5d4YgKOQoa6i8bLtUUFHxMh9KgqsA&s=10" style="width: 30px; height: auto;">
+    </div>
+   <h2>Найдите себя и посмотрите поздравление от своего ребенка:</h2>
+        <ul>
+            <li>Мама <a href="https://wikipedia.org" target="_blank" style="color: #9a6a6a; text-decoration: none; font-weight: bold;"><i>Анисимовой Анны</i></a></li>
+            <li>Мама <a href="https://wikipedia.org" target="_blank" style="color: #9a6a6a; text-decoration: none; font-weight: bold;"><i>Гунько Маргариты</i></a></li>
+            <li>Мама <a href="https://wikipedia.org" target="_blank" style="color: #9a6a6a; text-decoration: none; font-weight: bold;"><i>Дулькейт Джеймса</i></a></li>
+            <li>Мама <a href="https://wikipedia.org" target="_blank" style="color: #9a6a6a; text-decoration: none; font-weight: bold;"><i>Завьяловой Арины</i></a></li>
+            <li>Мама <a href="https://wikipedia.org" target="_blank" style="color: #9a6a6a; text-decoration: none; font-weight: bold;"><i>Захаркиной Виктории</i></a></li>
+            <li>Мама <a href="https://wikipedia.org" target="_blank" style="color: #9a6a6a; text-decoration: none; font-weight: bold;"><i>Казанцева Семена</i></a></li>
+            <li>Мама <a href="https://wikipedia.org" target="_blank" style="color: #9a6a6a; text-decoration: none; font-weight: bold;"><i>Кирпинченкова Льва</i></a></li>
+            <li>Мама <a href="https://wikipedia.org" target="_blank" style="color: #9a6a6a; text-decoration: none; font-weight: bold;"><i>Ковригиной Полины</i></a></li>
+            <li>Мама <a href="https://wikipedia.org" target="_blank" style="color: #9a6a6a; text-decoration: none; font-weight: bold;"><i>Лавренович Екатерины</i></a></li>
+            <li>Мама <a href="https://wikipedia.org" target="_blank" style="color: #9a6a6a; text-decoration: none; font-weight: bold;"><i>Миллер Варвары</i></a></li>
+            <li>Мама <a href="https://wikipedia.org" target="_blank" style="color: #9a6a6a; text-decoration: none; font-weight: bold;"><i>Пономаревой Дианы</i></a></li>
+            <li>Мама <a href="https://wikipedia.org" target="_blank" style="color: #9a6a6a; text-decoration: none; font-weight: bold;"><i>Радионовой Алены</i></a></li>
+            <li>Мама <a href="https://wikipedia.org" target="_blank" style="color: #9a6a6a; text-decoration: none; font-weight: bold;"><i>Серебренниковой Варвары</i></a></li>
+            <li>Мама <a href="https://wikipedia.org" target="_blank" style="color: #9a6a6a; text-decoration: none; font-weight: bold;"><i>Сигаевой Екатерины</i></a></li>
+            <li>Мама <a href="https://wikipedia.org" target="_blank" style="color: #9a6a6a; text-decoration: none; font-weight: bold;"><i>Сологуб Златы</i></a></li>
+            <li>Мама <a href="https://wikipedia.org" target="_blank" style="color: #9a6a6a; text-decoration: none; font-weight: bold;"><i>Тарасовой Валерии</i></a></li>
+            <li>Мама <a href="https://wikipedia.org" target="_blank" style="color: #9a6a6a; text-decoration: none; font-weight: bold;"><i>Тихоновой Екатерины</i></a></li>
+            <li>Мама <a href="https://wikipedia.org" target="_blank" style="color: #9a6a6a; text-decoration: none; font-weight: bold;"><i>Шайкиной Александры</i></a></li>
+            <li>Мама <a href="https://wikipedia.org" target="_blank" style="color: #9a6a6a; text-decoration: none; font-weight: bold;"><i>Шуваловой Дарьи</i></a></li>
+            <li>Мама <a href="https://wikipedia.org" target="_blank" style="color: #9a6a6a; text-decoration: none; font-weight: bold;"><i>Шустовой Виктории</i></a></li>
+        </ul>
+    </div>
+
+</body>
+</html>
